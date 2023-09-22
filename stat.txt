@@ -1,0 +1,8 @@
+[2023-09-22] 22:03:00 - |Number of files:4| Size:156 bytes|
+[root@localhost ~] vmstat 3 4
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0      0 1347080   6120 941464    0    0    68    11   72  137  1  2 97  0  0
+ 1  0      0 1347080   6120 941464    0    0     0     0   84  157  1  2 97  0  0
+ 1  0      0 1347080   6120 941464    0    0     0     0   59  107  1  1 98  0  0
+ 1  0      0 1347080   6120 941464    0    0     0     1   59  104  1  1 98  0  0

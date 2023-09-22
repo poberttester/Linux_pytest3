@@ -1,0 +1,4 @@
+folderin: /home/user/folder1
+folderout: /home/user/out
+folderext: /home/user/folder
+statisticpath: /proc/loadavg
